@@ -1,4 +1,4 @@
-module qqwry-ip
+module github.com/kasonpasser/qqwry-go
 
 go 1.13
 
